@@ -39,19 +39,18 @@
 ![](./Assets/04memo.png)
 
 ### Downloads
-- 下載方式 - 電腦/ipad
-    - 第一頁空白頁，我個人是拿來放整個月的行事曆，不過模版是直接放一個空白頁，大家可以自由發揮
+- 下載方式 
+    - 進入檔案頁面後，直接點選「Download」，即可下載 
     - `月計畫-模版(有日期版)`，我只是先放日期格式上去，正確的日期還需使用者自行手動輸入
-- 如何引入ipad notability
 - 下載源 
     - [月計畫-模版（有日期版）keynote](./Resource/月計畫-模版(有日期版).key)
     - [月計畫-模版（無日期版）keynote](./Resource/月計畫-模版(無日期版).key)
     - [月計畫-模版（有日期版）ppt](./Resource/月計畫-模版(有日期版).pptx)
     - [月計畫-模版（無日期版）ppt](./Resource/月計畫-模版(無日期版).pptx)
     - [月計畫-模版 pdf](./Resource/月計畫-模版.pdf)
-- 無法下載，直接私訊
+- 若無法下載，可於主頁(Overview)找到聯絡資訊，直接私訊～
 
 ### 支持
 - Github 發Issue
-- Give Star
-- IG 標記、HashTag
+- Give Star ✨
+- IG 標記（@han.c.hsu）或 HashTag（#hanc)
